@@ -11,5 +11,5 @@ Method stageTwo: Implements the second part of the kata. On top of stageOne, it 
 Both the method returns False if the passed parameter is not an int.
 
 System requirements:
-This program requires Python interpreter version above 3. 
+This program requires Python interpreter version above 3.
 Please also make sure the "unittest" unit testing framework is installed.
