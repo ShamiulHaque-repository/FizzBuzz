@@ -12,7 +12,7 @@ Both the method returns False if the passed parameter type is not int.
 
 System requirements:
 <br>This program requires Python interpreter version above 3.
-<br>Please also make sure the "unittest" unit testing framework is installed.
+<br>Please also make sure that the "unittest" unit testing framework is installed.
 
 Execute:
 <br>You can execute the programe direct in the terminal with Python interpreter. For example:
